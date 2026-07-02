@@ -1,0 +1,6 @@
+{
+  "name": "ZellaTrader AI",
+  "description": "Elite AI-powered Trading Journal with custom trade replay, deep psychology analysis, strategy playbooks, and an interactive intelligent AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
